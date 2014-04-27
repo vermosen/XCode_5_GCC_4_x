@@ -1,19 +1,19 @@
 /**
-    GCC 4.2 Compiler Specification
+    GCC 4.9 Compiler Specification
 
     Copyright (c) 2007-2010 Apple Inc.  All rights reserved.
 
-    This compiler specification defines the characteristics of the GCC 4.2 compiler.  This specification represents all four language-specific 4.2 compilers (cc1, cc1obj, cc1plus, cc1objplus).  It is self-contained (i.e. not dependent on the installation of the specification plist for any other version of GCC).
+    This compiler specification defines the characteristics of the GCC 4.9 compiler.  This specification represents all four language-specific 4.2 compilers (cc1, cc1obj, cc1plus, cc1objplus).  It is self-contained (i.e. not dependent on the installation of the specification plist for any other version of GCC).
 */
 
 {
-    Identifier = "com.apple.compilers.gcc.4_8";
+    Identifier = "com.apple.compilers.gcc.4_9";
     Type = Compiler;
     Class = "PBXCompilerSpecificationGcc3_3";
-    Name = "GCC 4.8";
-    Description = "GNU C/C++ Compiler 4.8";
+    Name = "GCC 4.9";
+    Description = "GNU C/C++ Compiler 4.9";
     Vendor = Apple;
-    Version = "4.8";
+    Version = "4.9";
     FileTypes = (
         "sourcecode.c.c",
         "sourcecode.c.objc",
