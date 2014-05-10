@@ -1,7 +1,7 @@
 XCode_5_GCC_4_x
 ===============
 
-This plugin allows to use GCC 4.8 within Xcode 5
+This plugin allows to use GCC 4.8 and later within Xcode 5
 
 to install the plugin, copy into 
 
